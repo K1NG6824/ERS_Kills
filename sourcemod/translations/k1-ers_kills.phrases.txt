@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"Log_phrase"    
+    {
+		"#format"   "{1:N},{2:s},{3:i},{4:i}"
+        "en"        "Player {1} ({2}) receive Skin id: {3} Weapon id: {4} [ERS Kills]"
+        "ru"        "Игрок {1} ({2}) получил id Скина: {3} id Оружия: {4} [ERS Kills]"
+    }
+}
